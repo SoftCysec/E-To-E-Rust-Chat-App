@@ -1,7 +1,7 @@
 {
     "name": "rust-react-chat",
     "version": "1.0.0",
-    "description": "Live Site (Note: Heroku free tier server takes several seconds to wake up from sleep mode): https://harryli0088.github.io/rust-react-chat/",
+    "description": "Live Site (Note: Heroku free tier server takes several seconds to wake up from sleep mode): https://SoftCysec.github.io/rust-react-chat/",
     "main": "index.js",
     "scripts": {
         "start": "concurrently \"cd client && npm start\" \"cd server && cargo watch -x 'run'\"",

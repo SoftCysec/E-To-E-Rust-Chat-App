@@ -1,6 +1,6 @@
 # End-to-End Encrypted React - Rust Chat App
 
-Live Site (Note: Heroku free tier server takes several seconds to wake up from sleep mode): https://harryli0088.github.io/rust-react-chat/
+Live Site (Note: Heroku free tier server takes several seconds to wake up from sleep mode): https://SoftCysec.github.io/rust-react-chat/
 
 ![Screenshot](/client/public/screenshot.png)
 
